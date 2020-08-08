@@ -1,2 +1,5 @@
 # maplestory_bgm_website
-Created with CodeSandbox
+
+randomly maplestory bgm and randomly dreamy image
+
+just relax website
