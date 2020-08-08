@@ -32,7 +32,7 @@ function randomImage() {
 
 function playImage() {
   randomImageIndex = randomImage();
-  player__image.style.backgroundImage = "url('images/image1.jpeg')";
+  player__image.style.backgroundImage = "url('image1.jpeg')";
   setTimeout(() => {
     playImage();
   }, 10000);
