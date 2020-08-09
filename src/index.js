@@ -27,7 +27,7 @@ function randomMusic() {
 }
 
 function randomImage() {
-  let index = Math.floor(Math.random() * ImageNum);
+  let index = Math.floor(Math.random() * ImageNum)+1;
 
   return index;
 }
