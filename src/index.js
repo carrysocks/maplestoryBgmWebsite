@@ -4,7 +4,9 @@ const musicArray = {
   "Flower and Wind": 159,
   "Hot Desert": 130,
   "When The Morning Comes": 150,
-  "2010 Winter": 163
+  "2010 Winter": 163,
+  "Temple of Time" : 139,
+  "The Cygnus Garden" : 201
 };
 const player__music = document.querySelector("#bgm__player");
 const player__image = document.querySelector(".container");
